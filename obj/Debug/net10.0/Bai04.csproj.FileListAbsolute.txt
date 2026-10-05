@@ -1,0 +1,14 @@
+D:\ĐHBK\2026.1\oop\Bai04\bin\Debug\net10.0\Bai04.exe
+D:\ĐHBK\2026.1\oop\Bai04\bin\Debug\net10.0\Bai04.deps.json
+D:\ĐHBK\2026.1\oop\Bai04\bin\Debug\net10.0\Bai04.runtimeconfig.json
+D:\ĐHBK\2026.1\oop\Bai04\bin\Debug\net10.0\Bai04.dll
+D:\ĐHBK\2026.1\oop\Bai04\bin\Debug\net10.0\Bai04.pdb
+D:\ĐHBK\2026.1\oop\Bai04\obj\Debug\net10.0\Bai04.GeneratedMSBuildEditorConfig.editorconfig
+D:\ĐHBK\2026.1\oop\Bai04\obj\Debug\net10.0\Bai04.AssemblyInfoInputs.cache
+D:\ĐHBK\2026.1\oop\Bai04\obj\Debug\net10.0\Bai04.AssemblyInfo.cs
+D:\ĐHBK\2026.1\oop\Bai04\obj\Debug\net10.0\Bai04.csproj.CoreCompileInputs.cache
+D:\ĐHBK\2026.1\oop\Bai04\obj\Debug\net10.0\Bai04.dll
+D:\ĐHBK\2026.1\oop\Bai04\obj\Debug\net10.0\refint\Bai04.dll
+D:\ĐHBK\2026.1\oop\Bai04\obj\Debug\net10.0\Bai04.pdb
+D:\ĐHBK\2026.1\oop\Bai04\obj\Debug\net10.0\Bai04.genruntimeconfig.cache
+D:\ĐHBK\2026.1\oop\Bai04\obj\Debug\net10.0\ref\Bai04.dll
